@@ -1,0 +1,33 @@
+
+
+Shader To Do:
+-------------
+
+Flat Shading
+
+Grouro Shading
+
+Phong Shading
+
+Toon Shading
+
+Ouline Shader
+
+Distance Shader
+Depth Shader
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

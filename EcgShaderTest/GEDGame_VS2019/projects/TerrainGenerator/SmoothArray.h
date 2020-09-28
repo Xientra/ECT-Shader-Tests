@@ -1,0 +1,1 @@
+float* smoothArray(float* arrPointer, int width, int height, int smoothAreaSize);

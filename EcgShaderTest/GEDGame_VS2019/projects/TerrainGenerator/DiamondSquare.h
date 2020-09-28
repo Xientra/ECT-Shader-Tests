@@ -1,0 +1,1 @@
+float* diamondSquareTerrain(int resolution, bool seeded = false, int customSeed = 0);
